@@ -44,3 +44,5 @@ The full name of dpos is "delegated proof of stake". It is similar to the voting
 [Twitter](https://twitter.com/BOHRweb/)
 
 [Github](https://github.com/BOHRweb/)
+
+[Android Wallet download](https://github.com/BOHRweb/Home/releases)
