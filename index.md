@@ -46,3 +46,13 @@ The full name of dpos is "delegated proof of stake". It is similar to the voting
 [Github](https://github.com/BOHRweb/)
 
 [Android Wallet download](https://github.com/BOHRweb/Home/releases)
+
+### What's next？
+
+1. January, Bohr's wallets for windows, luixus and Mac will be launched.
+
+2. February, we will continue to carry out a series of optimizations
+
+3. March, chief developers Evgeny bogachev and Kevin Mitnick began to prepare for the application development of Bohr defi.
+
+……
