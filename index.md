@@ -18,15 +18,19 @@ and takes the whole field defi ecology as the breakthrough point, so as to relie
 ### Why Choose us?
 
 Design highlights
+
 Bohr has a fast transaction, a large number of API interfaces, suitable for beginners and developers, distributed nodes, to ensure chain security.
 
 Smart contract
+
 Bohr releases the advantages of fast, safe and low-cost smart contracts for individuals and businesses. It represents a new generation of software as a service. Bohr is committed to developing smart contracts just as content management systems benefit web development.
 
 Fast Transactions
+
 Bohr creates blocks every 5 seconds instead of every 3 minutes. On Bohr, your token flows 20 times faster than on eth. Instant delivery enables simple transactions to be locked immediately.
 
 DPOS
+
 The full name of dpos is "delegated proof of stake". It is similar to the voting of the board of directors. The holder of a coin puts in a certain number of nodes to verify and account for them.
 
 ### More
