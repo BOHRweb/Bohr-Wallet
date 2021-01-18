@@ -1,37 +1,34 @@
 ## Welcome to BoHr
 
-You can use the [editor on GitHub](https://github.com/BOHRweb/Home/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+BoHr Blockchain system and for blockchain developer or personal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bohr is to create an underlying application platform for blockchain development institutions. It fits all the necessary functions of a smart contract..
 
-### Markdown
+### ABOUT BOHR
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BoHr is a decentralized currency that trades and invest with powerful blockchain applications.
 
-```markdown
-Syntax highlighted code block
+BoHr is the future underlying application platform to promote the development of new block chain.
 
-# Header 1
-## Header 2
-### Header 3
+BoHr directly tackles the pain point of block chain industry's large-scale implementation, breaks down technical barriers with rapid smart contracts, unblocks market interaction with multi-dimensional ecological structure.
 
-- Bulleted
-- List
+and takes the whole field defi ecology as the breakthrough point, so as to relieve the public chain market facing bottleneck stage and empower the decentralized business ecology.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Why Choose us?
 
-[Link](url) and ![Image](src)
-```
+Design highlights
+Bohr has a fast transaction, a large number of API interfaces, suitable for beginners and developers, distributed nodes, to ensure chain security.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Smart contract
+Bohr releases the advantages of fast, safe and low-cost smart contracts for individuals and businesses. It represents a new generation of software as a service. Bohr is committed to developing smart contracts just as content management systems benefit web development.
 
-### Jekyll Themes
+Fast Transactions
+Bohr creates blocks every 5 seconds instead of every 3 minutes. On Bohr, your token flows 20 times faster than on eth. Instant delivery enables simple transactions to be locked immediately.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BOHRweb/Home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+DPOS
+The full name of dpos is "delegated proof of stake". It is similar to the voting of the board of directors. The holder of a coin puts in a certain number of nodes to verify and account for them.
 
-### Support or Contact
+### More
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Looking forward to more.
