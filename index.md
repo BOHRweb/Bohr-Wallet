@@ -47,7 +47,43 @@ The full name of dpos is "delegated proof of stake". It is similar to the voting
 
 [Android Wallet download](https://github.com/BOHRweb/Home/releases)
 
-### What's next？
+### Coin Distribution？
+
+835,000,000 BoHr Maximum Supply
+
+(mining ends in years 2021-2029)
+
+0-5635000 blocks: 1280000 BoHr / day
+
+5635001-11270000 blocks: 640000 BoHr / day
+
+11270001-16905000 blocks: 320000 BoHr / day
+
+16905001-22540000 blocks: 160000 BoHr / day
+
+22540001-28175000 blocks: 80000 BoHr / day
+
+28175001-33810000 blocks: 40000 BoHr / day
+
+33810001-39445000 blocks: 20000 BoHr / day
+
+39445001-45080000 blocks: 10000 BoHr / day
+
+45080001-55016500 blocks: 5000 BoHr / day
+
+55016501-58963500 blocks: 2500 BoHr / day
+
+Airdrop rewards: 5% BoHr
+
+Agent rewards: 10% BoHr
+
+Pledge reward: 85% BoHr
+
+All spendings are 100% transparent
+
+View in BoHr Explorer Spreadsheets
+
+### Roadmap
 
 1. January, Bohr's wallets for windows, luixus and Mac will be launched.
 
