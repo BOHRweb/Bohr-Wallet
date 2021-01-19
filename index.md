@@ -85,10 +85,30 @@ View in BoHr Explorer Spreadsheets
 
 ### Roadmap
 
-1. January, Bohr's wallets for windows, luixus and Mac will be launched.
+2020 Q1：BoHr Core 1.0, First release of BoHr Core software with BoHr BFT consensus, draft specifications.
 
-2. February, we will continue to carry out a series of optimizations
+2020 Q2：BoHr mobile wallets，Light BoHr wallets to allow voting and BoHr transfers from Android devices.
 
-3. March, chief developers Evgeny bogachev and Kevin Mitnick began to prepare for the application development of Bohr defi.
+2021 Q1：enlarged the BoHr network and pre-seeded it with validators for Mainnet, helped to decentralize the initial distribution of BoHr coins, and distributed coins into the hands of people who are interested in participating in the project.
+
+2021 Q2：Main Network Launch: BoHr Core 1.0 codebase has been finalised and the network was successfully launched.
+
+2021 Q3：Staking pool software: A pool allows a group of people who do not have enough SEM to join their votes to have enough voting power to create new blocks as validators.
+
+2021 Q4：Bohr distribution，BoHr is the native cryptocurrency of BoHr network. It has 3 main use cases: it used in governance and BFT consensus algorithm (voting for delegates); it is a fuel for running decentralised apps; it is a store of value and mean of payment.
+
+2021 Q5：Development: BoHr JS SDK，BoHr JS SDK allows to securely interact with BoHr blockchain and thus build both client/browser and server side applications. It's supported in Node.js and most modern browsers.
+
+2021 Q6：Development: Virtual machine and HD wallet - Testnet，In February 2021 the virtual machine has been successfully activated in Testnet enabling smart contracts in Solidity. Same release featured HD-wallets.
+
+Future：Development: Web3 support，This will allow to use existing toolset and simplify the frontend development for Dapps.
+
+Future：Development: Browser extensions，BoHr Keeper is an extension that allows users to securely interact with BoHr-enabled web services from the browser. Private keys are encrypted and stored within the extension and cannot be accessed by online dApps and services, making sure that users' funds are protected from malicious websites.
+
+Future：Development: BoHr light desktop wallet，Light cross-platform wallet to speed up onboarding of new BoHr users without the need to download heavy blockchain unless they are validators.
+
+Future：BoHr Developer Program，Public bounty program to incentivize development of new consumer-oriented apps on top of BoHr platform.
+
+Future：Development: BoHr Core 2.0，This release features on-chain governance and DAOs with decentralized control of funds as their basis.Further governance of the network and upgrades to the software or blockchain state are left to the community.
 
 ……
