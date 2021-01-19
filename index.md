@@ -93,7 +93,7 @@ View in BoHr Explorer Spreadsheets
 
 2021 Q2：Main Network Launch: BoHr Core 1.0 codebase has been finalised and the network was successfully launched.
 
-2021 Q3：Staking pool software: A pool allows a group of people who do not have enough SEM to join their votes to have enough voting power to create new blocks as validators.
+2021 Q3：Staking pool software: A pool allows a group of people who do not have enough BoHr to join their votes to have enough voting power to create new blocks as validators.
 
 2021 Q4：Bohr distribution，BoHr is the native cryptocurrency of BoHr network. It has 3 main use cases: it used in governance and BFT consensus algorithm (voting for delegates); it is a fuel for running decentralised apps; it is a store of value and mean of payment.
 
